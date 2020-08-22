@@ -1,0 +1,1 @@
+UiPath is a Robotic process automation tool used for Windows desktop automation. It is founded in the year 2005 by the Romanian entrepreneurs Daniel Dines and Marius Tirca. It is used to automate boring repetitive tasks. ... With drag and drop functionality for all activities, it is the simplest RPA tool.
