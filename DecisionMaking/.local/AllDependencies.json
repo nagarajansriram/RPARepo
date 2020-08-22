@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "DecisionMaking",
       "projectName": "DecisionMaking",
-      "projectPath": "C:\\Users\\SRI\\Documents\\UiPath\\DecisionMaking\\.local",
+      "projectPath": "F:\\rpagit\\DecisionMaking\\.local",
       "packagesPath": "C:\\Users\\SRI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SRI\\Documents\\UiPath\\DecisionMaking\\.local"
+      "outputPath": "F:\\rpagit\\DecisionMaking\\.local"
     },
     "frameworks": {
       "net461": {
